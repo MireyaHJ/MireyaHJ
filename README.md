@@ -1,16 +1,39 @@
-## Hi there 👋
+<img src="banner.jpeg" width="100%">
 
-<!--
-**MireyaHJ/MireyaHJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👩‍💻 MireyaHJ
 
-Here are some ideas to get you started:
+**Mireya Guadalupe Hernández Jiménez** Ingeniera en Sistemas Computacionales  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desarrollo Web • Bases de Datos • Software  
+
+---
+
+## 🚀 Sobre mí
+
+Soy ingeniera en sistemas computacionales interesada en el desarrollo de software, sistemas administrativos y desarrollo web.  
+Me enfoco en crear soluciones funcionales utilizando bases de datos y programación.
+
+---
+
+## 🛠️ En desarrollo
+
+Actualmente me encuentro fortaleciendo mis habilidades en:
+* 🌐 Desarrollo Web Full Stack (PHP, JavaScript, HTML5, CSS).
+* 🗄️ Gestión y diseño de Bases de Datos.
+* 💻 Creación de mi portafolio profesional.
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MireyaHJ&show_icons=true)
+
+---
+
+## 📫 Contacto
+
+GitHub: https://github.com/MireyaHJ
+
+---
+
+⭐ Siempre aprendiendo y desarrollando nuevas soluciones tecnológicas.
