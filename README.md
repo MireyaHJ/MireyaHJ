@@ -1,4 +1,4 @@
-<img src="banner.jpeg" width="100%">
+<img src="Banner.jpeg" width="100%">
 
 # 👩‍💻 MireyaHJ
 
